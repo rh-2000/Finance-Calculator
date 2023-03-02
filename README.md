@@ -1,4 +1,4 @@
-# Simple Finance Calculator
+# Finance Calculator
 
 This repository contains a simple finance calculator that allows the user to calculate their interest on an investment or calculate the amount that should be repaid on a home loan each month.
 
